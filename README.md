@@ -39,7 +39,7 @@
 Install dependencies on Kali/Ubuntu:
 ```bash
 sudo apt install aircrack-ng hashcat-utils python3-tk
-pip3 install hashid 
+pip3 install hashid '''
 
 
 🔧 Usage
