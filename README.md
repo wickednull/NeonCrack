@@ -1,4 +1,4 @@
-# 🧬 NeonCrack v2 - Cyberpunk WPA Handshake Cracking Suite
+# 🧬 NeonCrack v1.2 - Cyberpunk WPA Handshake Cracking Suite
 
 **NeonCrack** is a sleek, cyberpunk-styled toolkit for cracking WPA/WPA2 handshakes with a powerful GUI interface. Built with `aircrack-ng`, `cap2hccapx`, and optional `hashid` support, this tool lets you analyze, convert, crack, and track captured handshakes — all from one neon-lit interface.
 
