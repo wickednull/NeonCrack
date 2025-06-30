@@ -39,12 +39,12 @@
 Install dependencies on Kali/Ubuntu:
 ```bash
 sudo apt install aircrack-ng hashcat-utils python3-tk
-pip3 install hashid '''
+pip3 install hashid
 
 
 🔧 Usage
 
-sudo python3 neoncrack.py
+# sudo python3 neoncrack.py
 
 1.	🧨 Select a .cap or .pcap handshake file
 	2.	📃 Choose your wordlist (e.g., rockyou.txt)
