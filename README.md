@@ -47,7 +47,7 @@ pip3 install hashid  # optional
 
 ⸻
 
-Developed by Niko DeRuise
+Developed by Null_Lyfe_tcl
 
 🧾 Credits
 
