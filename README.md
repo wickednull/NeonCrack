@@ -33,13 +33,14 @@
 
 ---
 
-## 📦 Installation
 
 ### 🔧 Dependencies
 
 ```bash
 sudo apt update && sudo apt install aircrack-ng hcxtools python3-tk xterm
 pip3 install hashid  # optional
+```
+
 
 
 
