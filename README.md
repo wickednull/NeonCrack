@@ -41,6 +41,46 @@ sudo apt update && sudo apt install aircrack-ng hcxtools python3-tk xterm
 pip3 install hashid  # optional
 ```
 
+🧠 Running NeonCrack
+
+🔸 Standard Linux Systems:
+```bash
+sudo python3 neoncrackV1.4.py
+```
+🔸 On NetHunter Pro (e.g. PinePhone):
+1.	Boot into Kali NetHunter Pro
+2.	Ensure monitor mode works
+
+ Test your WiFi adapter:
+```bash
+iwconfig
+sudo airmon-ng start wlan1  # replace with correct interface
+```
+
+3.	Give X11 Permissions (Important)
+On NetHunter Pro with GUI, run this if you get display issues:
+```bash
+xhost +SI:localuser:root
+```
+4.	Run the GUI Script:
+   ```bash
+sudo python3 neoncrackV1.4.py
+```
+⚠️ NetHunter Pro Special Notes
+	•	For Alfa USB adapters (e.g., AC600), ensure drivers are working
+	•	You may need a powered OTG hub for full performance
+	•	Test monitor mode with:
+ ```bash
+sudo airmon-ng start wlan1
+sudo airodump-ng wlan1mon
+```
+   
+If NeonCrack shows no networks, verify:
+	•	Monitor mode is active
+	•	You selected the correct interface
+	•	You gave X11 permission (xhost +)
+
+
 
 
 
