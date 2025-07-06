@@ -5,6 +5,7 @@
 **NeonCrack** is a single-file, Python-based “red-team cockpit” that bundles the most common wireless- and network-penetration workflows into one neon-themed GUI. Think of it as a mash-up of Wifite-style Wi-Fi attacks, hostapd-mana rogue-AP trickery, and a lightweight nmap front-end—all stitched together so you can pivot from discovery to exploitation and finally to cracking without leaving the same window.
 
 Who it’s for
+
 Pentesters, CTFers, and hobbyists who already know the underlying tools but want a quick dashboard that:
 	•	eliminates copy-pasting BSSIDs,
 	•	auto-converts captures for cracking,
