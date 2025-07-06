@@ -36,4 +36,4 @@
 	•	MonMode toggle detection
 	•	Dependencies list & cleaner header
 	•	Real-time logging across all attack modules
-	•	Fully patched & stable build
+	•	Fully patched & stable build 
