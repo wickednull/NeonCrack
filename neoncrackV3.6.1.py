@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """
 NeonCrack v3.6.1 – full-stack Wi-Fi & network toolkit
+created by Null_Lyfe
 ──────────────────────────────────────────────────────
 • All features of v3.6 (Dragonblood WPA3→WPA2, KARMA, nmap panel, stats)
 • Scan-tab facelift: “Dwell s” moved left, brand-new “Stop Scan” button
