@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/98c1370a-47e6-4927-8484-9343c74c2ea5)
 
-# 🧬 NeonCrack v1.4 — Cyberpunk WPA/PMKID Cracking Toolkit
+# 🧬 NeonCrack — Cyberpunk WPA/PMKID Cracking Toolkit
 
 **NeonCrack** is a visually immersive, cyberpunk-themed wireless cracking suite built for ethical hackers, red teamers, and cybersecurity enthusiasts. It brings together powerful open-source tools like `aircrack-ng` and `hcxtools` under a unified, user-friendly Python GUI — all themed in high-voltage neon.
 
@@ -45,7 +45,7 @@ pip3 install hashid  # optional
 
 🔸 Standard Linux Systems:
 ```bash
-sudo python3 neoncrackV1.4.py
+sudo python3 neoncrack.py
 ```
 🔸 On NetHunter Pro (e.g. PinePhone):
 1.	Boot into Kali NetHunter Pro
@@ -64,7 +64,7 @@ xhost +SI:localuser:root
 ```
 4.	Run the GUI Script:
    ```bash
-sudo python3 neoncrackV1.4.py
+sudo python3 neoncrack.py
 ```
 ⚠️ NetHunter Pro Special Notes
 	•	For Alfa USB adapters (e.g., AC600), ensure drivers are working
