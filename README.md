@@ -87,47 +87,32 @@ If NeonCrack shows no networks, verify:
 
 ⸻
 
-Developed by Null_Lyfe_tcl
+Developed by Null_Lyfe
 
 🙏 Special Thanks
 
 NeonCrack is only possible because of an incredible ecosystem of open-source projects.
 Huge respect to the engineers, researchers, and maintainers who built the tools we stand on:
 ```bash
-Tool / Library
-Lead Author(s) / Team
-Project Link
-aircrack-ng suite (airmon-ng, airodump-ng, aireplay-ng, airbase-ng)
-Thomas d’Otreppe and the aircrack-ng team
-https://www.aircrack-ng.org
-hcxdumptool & hcxtools
-ZerBea
-https://github.com/ZerBea/hcxdumptool
-hashcat
-Jens “atom” Steube & contributors
-https://hashcat.net
-Reaver & Wash
-Craig Heffner / Tactical Network Solutions
-https://github.com/t6x/reaver-wps-fork
-Bully
-Stef van der Zande
-https://github.com/aanarchyy/bully
-mdk4
-aircrack-ng team (successor to mdk3 by Musket Teams)
-https://github.com/aircrack-ng/mdk4
-hostapd-mana (KARMA)
-Dominic “singe” White & Ian de Villiers
-https://github.com/sensepost/hostapd-mana
-nmap
-Gordon “Fyodor” Lyon & the Nmap Project
-https://nmap.org
-psutil (bandwidth stats)
-Giampaolo Rodolà
-https://github.com/giampaolo/psutil
-matplotlib (graphing)
-John D. Hunter † and the Matplotlib dev team
-https://matplotlib.org
+## 🔧 Special Thanks
+
+NeonCrack was built on the powerful work of the open-source community. Much respect and thanks to the creators of these tools:
+
+| Tool / Library                          | Lead Author(s) / Team                                   |
+|----------------------------------------|----------------------------------------------------------|
+| aircrack-ng suite                      | Thomas d’Otreppe and the aircrack-ng team               |
+| hcxdumptool & hcxtools                 | ZerBea                                                  |
+| hashcat                                | Jens “atom” Steube & contributors                       |
+| Reaver & Wash                          | Craig Heffner / Tactical Network Solutions              |
+| Bully                                  | Stef van der Zande                                      |
+| mdk4                                   | aircrack-ng team (successor to mdk3 by Musket Teams)    |
+| hostapd-mana (KARMA)                   | Dominic “singe” White & Ian de Villiers                 |
+| nmap                                   | Gordon “Fyodor” Lyon & the Nmap Project                 |
+| psutil (bandwidth stats)               | Giampaolo Rodolà                                        |
+| matplotlib (graphing)                  | John D. Hunter † and the Matplotlib dev team            |
 ```
+Your code, research, and late-night bug fixes power every packet NeonCrack captures.
+Thank you for sharing your brilliance with the community. <3
 
 ⚠️ Disclaimer
 
