@@ -1,0 +1,39 @@
+🧠 NeonCrack Changelog — v1.4 ➤ v7.1
+
+🔹 v1.5 – Packet Capture Integration
+	•	Added handshake capture with interface selector
+	•	Save captured .pcap for cracking
+
+🔹 v2.0 – PMKID + Targeted Scanning
+	•	Added PMKID capture (hcxdumptool)
+	•	Network scan + target selection UI
+
+🔹 v3.0 – GUI Upgrade + Stability Fixes
+	•	Improved layout and error handling
+	•	Real-time logging area added to tabs
+
+🔹 v4.0 – Hash Tools
+	•	Integrated hash identifier
+	•	Capture cleaner module
+	•	Auto-detect handshake type
+
+🔹 v5.0 – Stats & Analysis
+	•	Cracked password statistics summary
+	•	Added hash counter + reused key detection
+
+🔹 v6.0 – Auto Attack Chains
+	•	Beacon spam + PMKID auto-capture chain
+	•	Auto conversion .pcap ➤ .hccapx
+	•	Improved interface dropdown logic
+
+🔹 v7.0 – Tool Integration & GUI Polish
+	•	Reaver, Bully, Wifiphisher tool support
+	•	Custom wordlist builder
+	•	Interface theme refined (cyberpunk)
+
+🔹 v7.1 – Final Enhancements
+	•	Streamlined sidebar tab structure
+	•	MonMode toggle detection
+	•	Dependencies list & cleaner header
+	•	Real-time logging across all attack modules
+	•	Fully patched & stable build
