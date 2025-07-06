@@ -2,7 +2,17 @@
 
 # 🧬 NeonCrack — Cyberpunk WPA/PMKID Cracking Toolkit
 
-**NeonCrack** is a visually immersive, cyberpunk-themed wireless cracking suite built for ethical hackers, red teamers, and cybersecurity enthusiasts. It brings together powerful open-source tools like `aircrack-ng` and `hcxtools` under a unified, user-friendly Python GUI — all themed in high-voltage neon.
+**NeonCrack** is a single-file, Python-based “red-team cockpit” that bundles the most common wireless- and network-penetration workflows into one neon-themed GUI. Think of it as a mash-up of Wifite-style Wi-Fi attacks, hostapd-mana rogue-AP trickery, and a lightweight nmap front-end—all stitched together so you can pivot from discovery to exploitation and finally to cracking without leaving the same window.
+
+Who it’s for
+Pentesters, CTFers, and hobbyists who already know the underlying tools but want a quick dashboard that:
+	•	eliminates copy-pasting BSSIDs,
+	•	auto-converts captures for cracking,
+	•	and keeps everything in one terminal-friendly Tk window.
+
+ Not a silver bullet
+ 
+ NeonCrack calls the real tools under the hood—if your wireless adapter can’t inject, or if hostapd-mana isn’t in your repo, NeonCrack will fail. It’s a convenience layer, not a magic exploit kit.
 
 ---
 
