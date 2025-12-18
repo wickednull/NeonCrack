@@ -70,7 +70,6 @@ pip3 install hashid # optional, for enhanced hash identification
 # You may also need to install other Python libraries if not already present:
 # pip3 install colorama tqdm requests
 ```
-*Note: A `requirements.txt` file is not currently in the repository. You may need to create one based on the imports in `neoncrack.py` if you plan to distribute this tool widely.*
 
 ### 🧠 Running NeonCrack
 
