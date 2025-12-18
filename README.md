@@ -1,4 +1,4 @@
-# 🧬 NeonCrack — Cyberpunk WPA/PMKID Cracking Toolkit
+# 🧬 NeonCrack — WPA/PMKID Cracking Toolkit
 
 ![image](https://github.com/user-attachments/assets/1587c15e-e7fe-41ba-bd7b-21d3fe4aa4cb)
 
